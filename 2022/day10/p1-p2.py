@@ -30,7 +30,6 @@ cycles_20_values = []
 cycle_cpt = 0
 value_cpt = 1
 cycle_goal = 40
-CRT = []
 res = []
 sprite = [1, 2, 3]
 
